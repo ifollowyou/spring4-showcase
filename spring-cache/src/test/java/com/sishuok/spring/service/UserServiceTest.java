@@ -2,7 +2,8 @@ package com.sishuok.spring.service;
 
 import com.sishuok.spring.AppConfig;
 import com.sishuok.spring.entity.User;
-import junit.framework.Assert;
+
+import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

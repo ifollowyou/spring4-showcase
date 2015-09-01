@@ -1,7 +1,7 @@
 package com.sishuok.spring.cache;
 
 import com.sishuok.spring.entity.User;
-import junit.framework.Assert;
+import org.junit.Assert;
 import org.junit.Test;
 import org.springframework.cache.Cache;
 import org.springframework.cache.ehcache.EhCacheCacheManager;
